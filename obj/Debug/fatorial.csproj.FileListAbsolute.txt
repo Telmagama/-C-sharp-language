@@ -1,0 +1,7 @@
+C:\Users\Dev\source\repos\aprendendoCSharp\fatorial\bin\Debug\fatorial.exe.config
+C:\Users\Dev\source\repos\aprendendoCSharp\fatorial\bin\Debug\fatorial.exe
+C:\Users\Dev\source\repos\aprendendoCSharp\fatorial\bin\Debug\fatorial.pdb
+C:\Users\Dev\source\repos\aprendendoCSharp\fatorial\obj\Debug\fatorial.csprojAssemblyReference.cache
+C:\Users\Dev\source\repos\aprendendoCSharp\fatorial\obj\Debug\fatorial.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\aprendendoCSharp\fatorial\obj\Debug\fatorial.exe
+C:\Users\Dev\source\repos\aprendendoCSharp\fatorial\obj\Debug\fatorial.pdb
