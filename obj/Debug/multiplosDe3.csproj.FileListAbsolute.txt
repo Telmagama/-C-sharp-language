@@ -1,0 +1,7 @@
+C:\Users\Dev\source\repos\aprendendoCSharp\multiplosDe3\obj\Debug\multiplosDe3.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\aprendendoCSharp\multiplosDe3\bin\Debug\multiplosDe3.exe.config
+C:\Users\Dev\source\repos\aprendendoCSharp\multiplosDe3\bin\Debug\multiplosDe3.exe
+C:\Users\Dev\source\repos\aprendendoCSharp\multiplosDe3\bin\Debug\multiplosDe3.pdb
+C:\Users\Dev\source\repos\aprendendoCSharp\multiplosDe3\obj\Debug\multiplosDe3.csprojAssemblyReference.cache
+C:\Users\Dev\source\repos\aprendendoCSharp\multiplosDe3\obj\Debug\multiplosDe3.exe
+C:\Users\Dev\source\repos\aprendendoCSharp\multiplosDe3\obj\Debug\multiplosDe3.pdb
